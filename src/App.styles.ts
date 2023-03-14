@@ -12,7 +12,7 @@ const Container = styled('div', {
   paddingBottom: 32,
 
   '@media(min-width: 768px)': {
-    padding: '60px 0 32px',
+    padding: '60px 60px 32px',
   },
 
   '@media(min-width: 1200px)': {
