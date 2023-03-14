@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gccavalheiro/bora-codar-desafio-10?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/bora-codar-desafio-10?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/gccavalheiro/bora-codar-desafio-10?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/bora-codar-desafio-10?color=56BEB8" /> -->
 
