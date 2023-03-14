@@ -32,6 +32,8 @@
 
 The following tools were used in this project:
 
+- [Figma](https://www.figma.com/community/file/1215291914714743267)
+
 - [React](https://pt-br.reactjs.org/)
 - [Stitches](stitches.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
